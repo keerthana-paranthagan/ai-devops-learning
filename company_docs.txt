@@ -1,0 +1,11 @@
+Kubernetes is used to orchestrate containers.
+
+Terraform is used for Infrastructure as Code.
+
+Docker is used to package applications into containers.
+
+OpenShift is Red Hat's Kubernetes platform.
+
+Grafana is used for monitoring and visualization.
+
+Prometheus collects metrics from applications and infrastructure.
